@@ -1,0 +1,8 @@
+/*this is test for output
+  This is for multiple line comments*/
+#include<iostream>
+
+int main ()
+{
+ std::cout << "Hello World"; //this print out "Hello World"
+}
