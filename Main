@@ -6,4 +6,5 @@ using namespace std;
 int main ()
 {
  cout << "Hello World"; //this print out "Hello World"
+ cout << "This is test program for Limyx826"; //prints the message
 }
