@@ -1,9 +1,11 @@
 /*this is test for output
   This is for multiple line comments*/
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main ()
 {
- cout << "Hello World"; //this print out "Hello World"
+ cout << "Hello World" << endl; //this print out "Hello World" and a line break
+ cout << "This is test program for Limyx826"; //prints the message
+ return 0
 }
