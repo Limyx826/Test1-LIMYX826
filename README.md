@@ -2,7 +2,7 @@
 This is a test repository.
 
 
-This is Main branch.
+This is master branch.
 
 # License
 Copyright (c) 2018 Limyx826. All rights reserved
