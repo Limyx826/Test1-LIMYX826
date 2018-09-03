@@ -30,6 +30,7 @@ Partial Class frmCalc
         Me.Label3 = New System.Windows.Forms.Label()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -89,11 +90,21 @@ Partial Class frmCalc
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
         Me.ContextMenuStrip1.Size = New System.Drawing.Size(61, 4)
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(358, 305)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 6
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'frmCalc
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -114,4 +125,5 @@ Partial Class frmCalc
     Friend WithEvents Label3 As Label
     Friend WithEvents ComboBox1 As ComboBox
     Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
+    Friend WithEvents Button1 As Button
 End Class
