@@ -7,6 +7,7 @@ This is master branch.
 # About
 This is a personal project made by me a *newbie* in C++ coding. 
 For anyone wants to teach or help me feel free to do so.
+
 ~~This is originally a test repository by me.~~
 
 # Personal info
