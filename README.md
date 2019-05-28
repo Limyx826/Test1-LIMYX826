@@ -2,7 +2,7 @@
 This is a test repository.
 
 
-This is master branch.
+This is 'master' branch.
 
 # About
 This is a personal project made by me a *newbie* in C++ coding. 
